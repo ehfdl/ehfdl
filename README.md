@@ -1,8 +1,13 @@
+<div align="right">
+<a href="https://velog.io/@cmaw"><img align="" src="https://img.shields.io/badge/velog-7a8490?style=flat&logo=velog&logoColor=white"></a>
+  </div>
 <div align="center">
   
 ### Hi there 😆
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehfdl&count_bg=%23ED4242&title_bg=%23555555&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ehfdl)
+  <br/>
+  
   #
   
 <!--
